@@ -12,3 +12,6 @@ PA7 -- LoRa_MOSI
 PB1 -- LoRa_CS
 PA9 -- LoRa_REST
 PA10 -- LoRa_IRQ(DIO0)
+
+QQ2801079570
+欢迎交流
